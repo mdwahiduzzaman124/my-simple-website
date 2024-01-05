@@ -3,14 +3,14 @@ div{
   padding: 10px;
   text-align: center;
 }
-li{
+ol{
   color: aquamarine;
   background-color: tomato;
   text-shadow: 5px;
   text-align: center;
 }
 ul{
-  background-color: aquamarine;
-  text-indent: 10px;
-  color: tomato;
+  color: blueviolet;
+  text-align: left;
+ background-color: yellow;
 }
