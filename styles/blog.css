@@ -3,3 +3,10 @@ div{
   padding: 10px;
   text-align: center;
 }
+li{
+  color: aquamarine;
+  background-color: tomato;
+  text-shadow: 5px;
+  text-align: center;
+  
+}
