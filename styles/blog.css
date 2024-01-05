@@ -14,3 +14,11 @@ ul{
   text-align: left;
  background-color: yellow;
 }
+.mac{
+  color: slateblue;
+  background-color: greenyellow;
+  display: flex;
+}
+#hr{
+  display: flex;
+}
