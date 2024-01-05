@@ -9,3 +9,8 @@ li{
   text-shadow: 5px;
   text-align: center;
 }
+ul{
+  background-color: aquamarine;
+  text-indent: 10px;
+  color: tomato;
+}
